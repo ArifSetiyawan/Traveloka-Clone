@@ -1,2 +1,23 @@
-# CloneApps
-ini adalah tugas yang saya kerjakan di Bootcamp Arkademy yaitu Clone Aplikasi disini saya mengclone Traveloka
+# Traveloka CLone
+A first assignment in Bootcamp Arkademy
+
+## Built with
+* [React Native 0.57] (https://facebook.github.io/react-native/)
+* [NativeBase] (https://nativebase.io/)
+* [React-Navigation] (https://reactnavigation.org/)
+
+## Build and run
+### Install npm modules
+```
+npm install
+```
+
+### Run android
+```
+react-native run-android
+```
+
+### Run the JS server
+```
+react-native start
+```
