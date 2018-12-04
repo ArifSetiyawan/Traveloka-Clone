@@ -1,5 +1,5 @@
-# Traveloka CLone
-A first assignment in Bootcamp Arkademy
+# Traveloka Clone
+A first assignment in Bootcamp Arkademy was the clone app with ReactNative
 
 ## Built with
 * [React Native 0.57] (https://facebook.github.io/react-native/)
